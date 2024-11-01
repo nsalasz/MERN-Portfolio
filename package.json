@@ -10,12 +10,10 @@
   "scripts": {
     "client-install": "npm install --prefix client",
     "client-build": "npm run build --prefix client",
-    "server": "nodemon server.js",
-    "client": "npm start --prefix client",
     "build": "npm run client-build",
-    "start": "node server.js"
+    "start": "NODE_ENV=production node server.js"
   },
-  "author": "",
+  "author": "nnsz",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
