@@ -13,10 +13,10 @@ function LeftSider() {
           <a href="mailto:nelson_salas@usmp.pe" target="_blank">
             <i class="ri-mail-line text-gray-400 "></i>
           </a>
-          <a href="/admin" target="_blank">
+          <a href="/#" target="_blank">
             <i class="ri-instagram-line text-gray-400 "></i>
           </a>
-          <a href="https://www.linkedin.com/in/#" target="_blank">
+          <a href="http://www.linkedin.com/in/nelson-noe-salas-zavala-48480a335" target="_blank">
             <i class="ri-linkedin-box-line text-gray-400 "></i>
           </a>
           <a href="https://github.com/nsalasz" target="_blank">
